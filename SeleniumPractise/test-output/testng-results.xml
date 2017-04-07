@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19907" started-at="2017-04-07T19:47:57Z" finished-at="2017-04-07T19:48:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19907" started-at="2017-04-07T19:47:57Z" finished-at="2017-04-07T19:48:17Z">
+      <class name="topicsSelenium.ExampleTestNGLog4j">
+        <test-method status="PASS" signature="startup()[pri:0, instance:topicsSelenium.ExampleTestNGLog4j@1e88b3c]" name="startup" is-config="true" duration-ms="8974" started-at="2017-04-07T15:47:57Z" finished-at="2017-04-07T15:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:topicsSelenium.ExampleTestNGLog4j@1e88b3c]" name="login" duration-ms="10265" started-at="2017-04-07T15:48:06Z" finished-at="2017-04-07T15:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:topicsSelenium.ExampleTestNGLog4j@1e88b3c]" name="teardown" is-config="true" duration-ms="652" started-at="2017-04-07T15:48:16Z" finished-at="2017-04-07T15:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- topicsSelenium.ExampleTestNGLog4j -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
