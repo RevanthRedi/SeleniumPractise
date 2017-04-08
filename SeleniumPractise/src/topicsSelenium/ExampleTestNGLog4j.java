@@ -23,7 +23,7 @@ public class ExampleTestNGLog4j
 	@BeforeTest
 	public void startup()
 	{
-		
+		//Opening Firefox
 		driver = new FirefoxDriver();
 	}
 	@Test
@@ -33,10 +33,10 @@ public class ExampleTestNGLog4j
 		PropertyConfigurator.configure("C:\\Users\\revan\\git\\SeleniumPractise\\SeleniumPractise\\log4j.properties");
 		logger = Logger.getLogger("ExampleTestNGLog4j");
 		logger.info("Logger Started");
-		driver = new FirefoxDriver();
 		logger.info("Firefox Opened");
 //		driver.get("http://www.google.com");
 //		logger.info("google opened");
+		//Opening Gmail
 		driver.navigate().to("http://www.gmail.com");
 		logger.info("gmail opened");
 		
