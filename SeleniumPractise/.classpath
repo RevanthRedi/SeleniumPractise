@@ -56,5 +56,8 @@
 	<classpathentry kind="lib" path="D:/Jars/selenium-2.53.1/libs/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="D:/Jars/selenium-2.53.1/libs/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="D:/Jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/java-client-appium-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/selenium-server-2.53.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

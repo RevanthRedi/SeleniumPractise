@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="topicsSelenium.ExampleTestNGLog4j">
+      <class name="topicsAppium.Fbtest">
         <methods>
-          <include name="startup"/>
-          <include name="login"/>
+          <include name="fblogin"/>
         </methods>
-      </class> <!-- topicsSelenium.ExampleTestNGLog4j -->
+      </class> <!-- topicsAppium.Fbtest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

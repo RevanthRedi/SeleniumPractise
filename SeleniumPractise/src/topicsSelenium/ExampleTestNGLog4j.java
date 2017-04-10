@@ -36,6 +36,7 @@ public class ExampleTestNGLog4j
 		logger.info("Firefox Opened");
 //		driver.get("http://www.google.com");
 //		logger.info("google opened");
+		
 		//Opening Gmail
 		driver.navigate().to("http://www.gmail.com");
 		logger.info("gmail opened");
