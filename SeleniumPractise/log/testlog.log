@@ -20,3 +20,15 @@
 2017-04-07 15:48:14,893 - ExampleTestNGLog4j -INFO - Firefox Opened
 2017-04-07 15:48:16,720 - ExampleTestNGLog4j -INFO - gmail opened
 2017-04-07 15:48:17,378 - ExampleTestNGLog4j -INFO - Logger Closed
+2017-04-10 15:26:00,439 - ExampleTestNGLog4j -INFO - Logger Started
+2017-04-10 15:26:00,550 - ExampleTestNGLog4j -INFO - Firefox Opened
+2017-04-10 15:26:09,889 - ExampleTestNGLog4j -INFO - gmail opened
+2017-04-10 15:26:11,382 - ExampleTestNGLog4j -INFO - Logger Closed
+2017-04-12 22:15:44,315 - ExampleTestNGLog4j -INFO - Logger Started
+2017-04-12 22:15:44,620 - ExampleTestNGLog4j -INFO - Firefox Opened
+2017-04-12 22:15:52,030 - ExampleTestNGLog4j -INFO - gmail opened
+2017-04-12 22:15:53,564 - ExampleTestNGLog4j -INFO - Logger Closed
+2017-04-14 20:31:14,636 - ExampleTestNGLog4j -INFO - Logger Started
+2017-04-14 20:31:14,813 - ExampleTestNGLog4j -INFO - Firefox Opened
+2017-04-14 20:31:19,668 - ExampleTestNGLog4j -INFO - gmail opened
+2017-04-14 20:31:22,028 - ExampleTestNGLog4j -INFO - Logger Closed
